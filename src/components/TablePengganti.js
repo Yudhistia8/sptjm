@@ -118,7 +118,7 @@ return (
         </div>
     </div>
 
-    <table border="4" cellPadding="10" className='my-5'>
+    <table border="4" cellPadding="4" className='my-5 w-[35em]'>
         <thead>
         <tr className="text-sm font-thin">
             <th>NO</th>
