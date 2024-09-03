@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
 <p className='text-xl font-bold'>* jangan lupa rapikan tampilan dan cek lagi apakah data sudah benar apatau belum karena aplikasi ini tidak 100% benar</p>
               </span>
           </div>
+          <Footer/>
       </div>
   );
 }
