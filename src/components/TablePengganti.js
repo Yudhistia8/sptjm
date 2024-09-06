@@ -128,6 +128,7 @@ return (
             <th>NAMA BPB PENGGANTI</th>
             <th>ALAMAT</th>
             <th>NIK</th>
+            <th>ALASAN</th>
         </tr>
         </thead>
         <tbody>
@@ -140,6 +141,7 @@ return (
                 <td>{item["PBP Pengganti"]}</td>
                 <td>{item["__EMPTY_5"]}</td>
                 <td>{item["__EMPTY_4"]}</td>
+                <td>{item["__EMPTY_8"]}</td>
             </tr>
         ))}
         </tbody>

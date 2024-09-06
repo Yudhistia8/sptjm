@@ -9,6 +9,7 @@ const Navigation = () => {
         <NavLink to="/" name="Home" />
         <NavLink to="/pengganti" name="Pengganti" />
         <NavLink to="/perwakilan" name="Perwalilan" />
+        <NavLink to="/patch" name="Patch Note" />
       </div>
     </nav>
   );

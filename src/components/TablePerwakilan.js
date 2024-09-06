@@ -128,6 +128,7 @@ const TablePerwakilan = ({datas}) => {
                     <th>NIK DIWAKILKAN</th>
                     <th>ALAMAT PENERIMA</th>
                     <th>ALAMAT DIWAKILKAN</th>
+                    <th>ALASAN</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -140,6 +141,7 @@ const TablePerwakilan = ({datas}) => {
                         <td>{item["__EMPTY_4"]}</td>
                         <td>{item["__EMPTY_1"]}</td>
                         <td>{item["__EMPTY_5"]}</td>
+                        <td>{item["__EMPTY_8"]}</td>
                     </tr>
                 ))}
                 </tbody>
