@@ -6,7 +6,7 @@ const Patch = () => {
             </div>
             <div>
                 <h2>6 september 2024</h2>
-                <p>Menambahkan table fild alasan di table perwakilan dan pengganti
+                <p>Menambahkan table fild alasan di table perwakilan dan pengganti</p>
                 </div>
         </div>
     );
