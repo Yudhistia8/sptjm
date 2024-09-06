@@ -12,4 +12,4 @@ const Patch = () => {
     );
 };
 
-export default patch;
+export default Patch;
