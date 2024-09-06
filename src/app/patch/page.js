@@ -9,5 +9,7 @@ const Patch = () => {
                 <p>Menambahkan table fild alasan di table perwakilan dan pengganti
                 </div>
         </div>
-    )
-}
+    );
+};
+
+export default patch;
